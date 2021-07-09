@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.0EA",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameFramework",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Bridge",
@@ -12,6 +22,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
 		}
 	]
 }
