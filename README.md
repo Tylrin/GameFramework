@@ -1,2 +1,2 @@
 # GameFramework
-![GameFramework Logo](/GameFrameworkResources/Export/GameFramework_Logo.png)
+![GameFramework Logo](/Resources/Export/GameFramework_Logo.png)
