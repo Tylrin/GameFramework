@@ -1,6 +1,7 @@
 # GameFramework
 ![GameFramework Logo](/Resources/ProjectDesign/Export/GameFramework_SocialPreview.png)
-![Platform SDKs](/Resources/Documentation/PlatformInfo.md)
+### Platform Support
+[Platform SDKs](/Resources/Documentation/PlatformInfo.md)
 ## Work in Progress
 This project is very much work in progress and is not finished. Not all features that are listed in the description of the repository are included but they are planned to be added or are currently in development.
 ## License & Contribution
