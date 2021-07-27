@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Packaged releases
 Releases/*
+
+# Reference images for designs
+/Resources/References/*
