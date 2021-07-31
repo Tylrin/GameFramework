@@ -1,5 +1,11 @@
 # GameFramework
 ![GameFramework Logo](/Resources/ProjectDesign/Export/GameFramework_SocialPreview.png)
+# Project Philosophy 
+The main goal is to create a complete game framework that is both versatile and easy to understand. The driving philosophy of the project is to be as engine agnostic as possible. That mean relying heavely on the build-in engine codebase and not implementing any online services to guarantee the highest longevity and best platform compatibility.
+## Questions
+Whats being worked on?
+
+To see what I am working on look at the project tap and kanban cards.
 ### Platform Support
 [Platform SDKs](/Resources/Documentation/PlatformInfo.md)
 ## Work in Progress

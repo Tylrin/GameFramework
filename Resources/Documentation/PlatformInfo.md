@@ -1,5 +1,5 @@
 ## Info for Platform SDKs
-![SDKs Image](/Resources/Documentation/Platform-SDKs.png)
+![SDKs Image](/Resources/Documentation/Images/Platform-SDKs.png)
 To get  platform specific sdks like for the Xbox Series X/S or PS5 you have to go to the specific companies directly and request access on their development platforms.
 - Xbox One, Series S/X [ID@Xbox](https://www.xbox.com/en-us/developers/id?source=lp)
 - PS4 and PS5 [Playstation Partners](https://partners.playstation.net/)
