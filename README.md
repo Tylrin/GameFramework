@@ -2,8 +2,8 @@
 ![GameFramework Logo](/Resources/ProjectDesign/Export/GameFramework_SocialPreview.png)
 The GameFramework is a layer on top of Unreal Engines Gameplay Framework. It includes destinct game states and functionalities for logo movies, start- and main menus, scalability settings, loading screens and save games.
 ## Project Philosophy 
-The main goal is to create a complete game framework that is both versatile and easy to understand. The driving philosophy of the project is to be as engine agnostic as possible. That mean relying heavely on the build-in engine codebase and not implementing any online services to guarantee the highest longevity and best platform compatibility.
-## Questions
+The main goal is to create a complete game framework that is both versatile and easy to understand. The driving philosophy of the project is to be as engine agnostic as possible. That mean relying heavely on the build-in engine codebase and not implementing any online services to guarantee the highest longevity and best platform compatibility. The game framework is best used for single player titles.
+## Q&A
 Whats being worked on?
 - To see what I am working on look at the project tap and kanban cards.
 
