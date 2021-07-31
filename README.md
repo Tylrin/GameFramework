@@ -5,6 +5,7 @@ The main goal is to create a complete game framework that is both versatile and 
 ## Questions
 Whats being worked on?
 - To see what I am working on look at the project tap and kanban cards.
+
 Where can I find platform specific SDK's?
 - [Platform SDKs](/Resources/Documentation/PlatformInfo.md)
 ## Work in Progress
