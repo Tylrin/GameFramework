@@ -7,6 +7,9 @@ The main goal is to create a complete game framework that is both versatile and 
 Whats being worked on?
 - To see what I am working on look at the project tap and kanban cards.
 
+Why does localization doesn't work for me?
+- Changing localization at runtime only works in standalone games not in pie.
+
 For what platforms is this framework?
 - The priority for the project is PC but nothing strictly limits it to the PC or just keyboard and mouse. I plan to add controller support at some point (I dont own a controller right now). Also other platforms require extra setup and SDK's that are not included in the repo.
 
