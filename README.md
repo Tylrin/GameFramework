@@ -11,7 +11,7 @@ Why does localization doesn't work for me?
 - Changing localization at runtime only works in standalone games not in PIE.
 
 For what platforms is this framework?
-- The priority for the project is PC but nothing strictly limits it to the PC or just keyboard and mouse. I plan to add controller support at some point (I dont own a controller right now). Also other platforms require extra setup and SDK's that are not included in the repo.
+- The priority for the project is PC but nothing strictly limits it to the PC or just keyboard and mouse. Also other platforms require extra setup and SDK's that are not included in the repo.
 
 Where can I find platform specific SDK's?
 - [Platform SDKs](/Resources/Documentation/PlatformInfo.md)
